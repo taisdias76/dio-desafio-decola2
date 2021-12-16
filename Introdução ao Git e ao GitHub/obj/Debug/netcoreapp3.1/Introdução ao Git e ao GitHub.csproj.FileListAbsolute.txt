@@ -1,0 +1,13 @@
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\bin\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.exe
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\bin\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.deps.json
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\bin\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.runtimeconfig.json
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\bin\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.runtimeconfig.dev.json
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\bin\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.dll
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\bin\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.pdb
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\obj\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.csprojAssemblyReference.cache
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\obj\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.AssemblyInfoInputs.cache
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\obj\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.AssemblyInfo.cs
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\obj\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.csproj.CoreCompileInputs.cache
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\obj\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.dll
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\obj\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.pdb
+C:\Users\tatah\OneDrive\Documentos\Dev\Git\DIO\dio-desafio-decola2\Introdução ao Git e ao GitHub\obj\Debug\netcoreapp3.1\Introdução ao Git e ao GitHub.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Introdução ao Git e ao GitHub/1.0.0": {
+        "runtime": {
+          "Introdução ao Git e ao GitHub.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introdução ao Git e ao GitHub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
