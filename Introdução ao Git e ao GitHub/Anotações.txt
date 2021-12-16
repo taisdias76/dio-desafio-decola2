@@ -1,0 +1,6 @@
+:satisfied: Hello World!
+
+Meu nome é Tais e estou aprendendo Git/GitHub!
+
+:link: Linkedln: https://www.linkedin.com/in/tais-dias-de-carvalho-599b761ab/
+
